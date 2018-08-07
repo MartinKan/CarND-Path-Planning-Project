@@ -5,7 +5,7 @@ Background
 ---
 In this project, my goal is to build a path planner that will autonomously drive a car around the track in the simulator for the project without exceeding the speed limit or collide with the other cars on the road.
 
-Overview of Repository [EDIT]
+Overview of Repository
 ---
 This repository contains the following source files that I have forked from the [main repository](https://github.com/udacity/CarND-Path-Planning-Project) and subsequently modified for the MPC project:
 
